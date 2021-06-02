@@ -9,7 +9,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel! - Mr.Wang</div>
+                <div class="title">Hello Laravel! - 王佳祥</div>
             </div>
         </div>
     </body>
