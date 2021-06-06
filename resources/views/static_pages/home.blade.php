@@ -2,9 +2,9 @@
 
 @section('content')
   <div class="jumbotron">
-    <h1>Hello Laravel</h1>
+    <h1>每天都是新的开始...</h1>
     <p class="lead">
-      你现在所看到的是 <a href="https://learnku.com/courses/laravel-essential-training">Laravel 入门教程</a> 的示例项目主页。
+      做你没做过的事情叫成长，做你不愿意做的事情叫改变，没做你不敢做的事情叫突破。
     </p>
     <p>
       一切，将从这里开始。
