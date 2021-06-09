@@ -16,6 +16,7 @@
 	</video>
   <!-- 该站位区域将用于显示content区块的内容 -->
   <div class="container">
+      @include('shared._messages')
       @yield('content')
     </div>
     @include('layouts._footer')
