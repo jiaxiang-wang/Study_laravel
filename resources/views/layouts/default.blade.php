@@ -8,12 +8,10 @@
     <title>@yield('title','Weibo App')</title>
 </head>
 <body>
-<div class="videocontainer">
+<div >
   <!-- 导航 -->
   @include('layouts._header')
-	<video class="fullscreenvideo"  id="bgvid" playsinline="" autoplay="auto" muted loop="">
-		<source src="{{URL::asset('/videos/181004_04_Dolphins-Whale_06.mp4')}}" type="video/mp4">
-	</video>
+
   <!-- 该站位区域将用于显示content区块的内容 -->
   <div class="container">
       @include('shared._messages')
